@@ -9,8 +9,8 @@ setup(
         'psycopg2==2.7.7',
         'FixedWidth==1.3',
         'sqlalchemy-redshift==0.7.7',
-        'dbt-core==0.13.1',
-        'dbt-redshift==0.13.1',
+        'dbt-core==0.17.0',
+        'dbt-redshift==0.17.0',
         'Logbook==1.5.3'
     ],
     tests_require=[
